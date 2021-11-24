@@ -1,0 +1,39 @@
+2021-10-22 15:53:12,142 INFO 49254 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-22 15:53:12,142 INFO 49254 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-22 15:53:12,142 INFO 49254 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-22 15:53:12,224 INFO 49254 [Timer] /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45407778ms at 2021-10-23 04:30:00.002
+2021-10-22 15:53:12,224 INFO 49254 [Timer] /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29207776ms at 2021-10-23 00:00:00.000
+2021-10-22 15:53:12,224 INFO 49254 [Timer] /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29208776ms at 2021-10-23 00:00:01.000
+2021-10-25 17:45:27,632 INFO 79748 [Timer] /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38672370ms at 2021-10-26 04:30:00.002
+2021-10-25 17:45:27,632 INFO 79748 [Timer] /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22472368ms at 2021-10-26 00:00:00.000
+2021-10-25 17:45:27,632 INFO 79748 [Timer] /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22473368ms at 2021-10-26 00:00:01.000
+2021-10-25 17:45:27,525 INFO 79749 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 17:45:27,525 INFO 79749 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 17:45:27,525 INFO 79749 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 17:45:47,739 INFO 79774 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 17:45:47,739 INFO 79774 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 17:45:47,739 INFO 79774 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 17:45:56,868 INFO 79799 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 17:45:56,868 INFO 79799 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 17:45:56,868 INFO 79799 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 17:47:17,102 INFO 79878 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 17:47:17,102 INFO 79878 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 17:47:17,102 INFO 79878 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 17:47:17,839 INFO 79881 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 17:47:17,839 INFO 79881 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 17:47:17,839 INFO 79881 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 17:52:50,929 INFO 80155 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 17:52:50,929 INFO 80155 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 17:52:50,929 INFO 80155 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 17:53:04,126 INFO 80170 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 17:53:04,126 INFO 80170 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 17:53:04,126 INFO 80170 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 19:02:42,818 INFO 80970 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 19:02:42,818 INFO 80970 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 19:02:42,818 INFO 80970 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 19:02:52,956 INFO 80986 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 19:02:52,956 INFO 80986 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 19:02:52,956 INFO 80986 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-25 19:03:01,599 INFO 81002 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-25 19:03:01,599 INFO 81002 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-25 19:03:01,599 INFO 81002 [egg-schedule]: register schedule /Users/tongyi/Desktop/self/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

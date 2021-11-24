@@ -1,0 +1,54 @@
+2021-10-25 17:45:48,336 ERROR 79774 [-/127.0.0.1/-/16ms GET /user] nodejs.TypeError: Cannot read property 'get' of undefined
+    at UserController.fetch (/Users/tongyi/Desktop/self/egg-example/app/controller/user.js:6:37)
+    at Object.callFn (/Users/tongyi/Desktop/self/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tongyi/Desktop/self/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tongyi/Desktop/self/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tongyi/Desktop/self/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tongyi/Desktop/self/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tongyi/Desktop/self/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/tongyi/Desktop/self/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/tongyi/Desktop/self/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/tongyi/Desktop/self/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 79774
+hostname: B-12UFQ05P-0312.local
+
+2021-10-25 17:45:50,226 ERROR 79774 [-/127.0.0.1/-/4ms GET /user] nodejs.TypeError: Cannot read property 'get' of undefined
+    at UserController.fetch (/Users/tongyi/Desktop/self/egg-example/app/controller/user.js:6:37)
+    at Object.callFn (/Users/tongyi/Desktop/self/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tongyi/Desktop/self/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tongyi/Desktop/self/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tongyi/Desktop/self/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tongyi/Desktop/self/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tongyi/Desktop/self/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/tongyi/Desktop/self/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/tongyi/Desktop/self/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/tongyi/Desktop/self/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 79774
+hostname: B-12UFQ05P-0312.local
+
+2021-10-25 18:11:43,676 ERROR 79748 nodejs.ClusterClientNoResponseError: client no response in 939373ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tongyi/Desktop/self/egg-example/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 79748
+hostname: B-12UFQ05P-0312.local
+
+2021-10-25 18:28:44,155 ERROR 79748 nodejs.ClusterClientNoResponseError: client no response in 980410ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tongyi/Desktop/self/egg-example/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 79748
+hostname: B-12UFQ05P-0312.local
+
+2021-10-25 18:46:51,134 ERROR 79748 nodejs.ClusterClientNoResponseError: client no response in 68254ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tongyi/Desktop/self/egg-example/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 79748
+hostname: B-12UFQ05P-0312.local
+

@@ -1,0 +1,158 @@
+2021-10-22 15:53:12,138 INFO 49254 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2021-10-22 15:53:12,143 INFO 49254 [egg-multipart] stream mode enable
+2021-10-22 15:53:12,202 INFO 49254 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-22 15:53:12,205 INFO 49254 [egg-security] use csrf middleware
+2021-10-22 15:53:12,206 INFO 49254 [egg-security] use methodnoallow middleware
+2021-10-22 15:53:12,206 INFO 49254 [egg-security] use noopen middleware
+2021-10-22 15:53:12,206 INFO 49254 [egg-security] use nosniff middleware
+2021-10-22 15:53:12,207 INFO 49254 [egg-security] use xssProtection middleware
+2021-10-22 15:53:12,207 INFO 49254 [egg-security] use xframe middleware
+2021-10-22 15:53:12,207 INFO 49254 [egg-security] use dta middleware
+2021-10-22 15:53:12,207 INFO 49254 [egg-security] compose 7 middlewares into one security middleware
+2021-10-22 15:53:12,213 INFO 49254 [egg:core] dump config after load, 2ms
+2021-10-22 15:53:12,220 INFO 49254 [egg-watcher:application] watcher start success
+2021-10-22 15:53:12,222 INFO 49254 [egg:core] dump config after ready, 2ms
+2021-10-25 17:45:27,497 INFO 79749 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 17:45:27,528 INFO 79749 [egg-multipart] stream mode enable
+2021-10-25 17:45:27,595 INFO 79749 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 17:45:27,598 INFO 79749 [egg-security] use csrf middleware
+2021-10-25 17:45:27,598 INFO 79749 [egg-security] use methodnoallow middleware
+2021-10-25 17:45:27,599 INFO 79749 [egg-security] use noopen middleware
+2021-10-25 17:45:27,599 INFO 79749 [egg-security] use nosniff middleware
+2021-10-25 17:45:27,599 INFO 79749 [egg-security] use xssProtection middleware
+2021-10-25 17:45:27,600 INFO 79749 [egg-security] use xframe middleware
+2021-10-25 17:45:27,600 INFO 79749 [egg-security] use dta middleware
+2021-10-25 17:45:27,600 INFO 79749 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 17:45:27,609 INFO 79749 [egg:core] dump config after load, 5ms
+2021-10-25 17:45:27,621 INFO 79749 [egg-watcher:application] watcher start success
+2021-10-25 17:45:27,628 INFO 79749 [egg:core] dump config after ready, 4ms
+2021-10-25 17:45:47,697 INFO 79774 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 17:45:47,741 INFO 79774 [egg-multipart] stream mode enable
+2021-10-25 17:45:47,887 INFO 79774 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 17:45:47,891 INFO 79774 [egg-security] use csrf middleware
+2021-10-25 17:45:47,891 INFO 79774 [egg-security] use methodnoallow middleware
+2021-10-25 17:45:47,891 INFO 79774 [egg-security] use noopen middleware
+2021-10-25 17:45:47,892 INFO 79774 [egg-security] use nosniff middleware
+2021-10-25 17:45:47,892 INFO 79774 [egg-security] use xssProtection middleware
+2021-10-25 17:45:47,893 INFO 79774 [egg-security] use xframe middleware
+2021-10-25 17:45:47,893 INFO 79774 [egg-security] use dta middleware
+2021-10-25 17:45:47,893 INFO 79774 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 17:45:47,904 INFO 79774 [egg:core] dump config after load, 5ms
+2021-10-25 17:45:47,917 INFO 79774 [egg-watcher:application] watcher start success
+2021-10-25 17:45:47,925 INFO 79774 [egg:core] dump config after ready, 5ms
+2021-10-25 17:45:56,837 INFO 79799 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 17:45:56,869 INFO 79799 [egg-multipart] stream mode enable
+2021-10-25 17:45:56,937 INFO 79799 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 17:45:56,940 INFO 79799 [egg-security] use csrf middleware
+2021-10-25 17:45:56,941 INFO 79799 [egg-security] use methodnoallow middleware
+2021-10-25 17:45:56,941 INFO 79799 [egg-security] use noopen middleware
+2021-10-25 17:45:56,941 INFO 79799 [egg-security] use nosniff middleware
+2021-10-25 17:45:56,942 INFO 79799 [egg-security] use xssProtection middleware
+2021-10-25 17:45:56,942 INFO 79799 [egg-security] use xframe middleware
+2021-10-25 17:45:56,942 INFO 79799 [egg-security] use dta middleware
+2021-10-25 17:45:56,942 INFO 79799 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 17:45:56,952 INFO 79799 [egg:core] dump config after load, 5ms
+2021-10-25 17:45:56,963 INFO 79799 [egg-watcher:application] watcher start success
+2021-10-25 17:45:56,971 INFO 79799 [egg:core] dump config after ready, 4ms
+2021-10-25 17:47:17,054 INFO 79878 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 17:47:17,103 INFO 79878 [egg-multipart] stream mode enable
+2021-10-25 17:47:17,183 INFO 79878 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 17:47:17,187 INFO 79878 [egg-security] use csrf middleware
+2021-10-25 17:47:17,187 INFO 79878 [egg-security] use methodnoallow middleware
+2021-10-25 17:47:17,188 INFO 79878 [egg-security] use noopen middleware
+2021-10-25 17:47:17,188 INFO 79878 [egg-security] use nosniff middleware
+2021-10-25 17:47:17,189 INFO 79878 [egg-security] use xssProtection middleware
+2021-10-25 17:47:17,189 INFO 79878 [egg-security] use xframe middleware
+2021-10-25 17:47:17,189 INFO 79878 [egg-security] use dta middleware
+2021-10-25 17:47:17,189 INFO 79878 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 17:47:17,201 INFO 79878 [egg:core] dump config after load, 6ms
+2021-10-25 17:47:17,212 INFO 79878 [egg-watcher:application] watcher start success
+2021-10-25 17:47:17,219 INFO 79878 [egg:core] dump config after ready, 4ms
+2021-10-25 17:47:17,800 INFO 79881 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 17:47:17,840 INFO 79881 [egg-multipart] stream mode enable
+2021-10-25 17:47:17,908 INFO 79881 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 17:47:17,912 INFO 79881 [egg-security] use csrf middleware
+2021-10-25 17:47:17,912 INFO 79881 [egg-security] use methodnoallow middleware
+2021-10-25 17:47:17,913 INFO 79881 [egg-security] use noopen middleware
+2021-10-25 17:47:17,913 INFO 79881 [egg-security] use nosniff middleware
+2021-10-25 17:47:17,913 INFO 79881 [egg-security] use xssProtection middleware
+2021-10-25 17:47:17,913 INFO 79881 [egg-security] use xframe middleware
+2021-10-25 17:47:17,913 INFO 79881 [egg-security] use dta middleware
+2021-10-25 17:47:17,913 INFO 79881 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 17:47:17,924 INFO 79881 [egg:core] dump config after load, 5ms
+2021-10-25 17:47:17,937 INFO 79881 [egg-watcher:application] watcher start success
+2021-10-25 17:47:17,944 INFO 79881 [egg:core] dump config after ready, 4ms
+2021-10-25 17:52:50,898 INFO 80155 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 17:52:50,930 INFO 80155 [egg-multipart] stream mode enable
+2021-10-25 17:52:50,998 INFO 80155 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 17:52:51,002 INFO 80155 [egg-security] use csrf middleware
+2021-10-25 17:52:51,003 INFO 80155 [egg-security] use methodnoallow middleware
+2021-10-25 17:52:51,003 INFO 80155 [egg-security] use noopen middleware
+2021-10-25 17:52:51,003 INFO 80155 [egg-security] use nosniff middleware
+2021-10-25 17:52:51,004 INFO 80155 [egg-security] use xssProtection middleware
+2021-10-25 17:52:51,004 INFO 80155 [egg-security] use xframe middleware
+2021-10-25 17:52:51,004 INFO 80155 [egg-security] use dta middleware
+2021-10-25 17:52:51,004 INFO 80155 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 17:52:51,015 INFO 80155 [egg:core] dump config after load, 5ms
+2021-10-25 17:52:51,028 INFO 80155 [egg-watcher:application] watcher start success
+2021-10-25 17:52:51,036 INFO 80155 [egg:core] dump config after ready, 5ms
+2021-10-25 17:53:04,085 INFO 80170 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 17:53:04,127 INFO 80170 [egg-multipart] stream mode enable
+2021-10-25 17:53:04,215 INFO 80170 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 17:53:04,219 INFO 80170 [egg-security] use csrf middleware
+2021-10-25 17:53:04,220 INFO 80170 [egg-security] use methodnoallow middleware
+2021-10-25 17:53:04,220 INFO 80170 [egg-security] use noopen middleware
+2021-10-25 17:53:04,221 INFO 80170 [egg-security] use nosniff middleware
+2021-10-25 17:53:04,221 INFO 80170 [egg-security] use xssProtection middleware
+2021-10-25 17:53:04,221 INFO 80170 [egg-security] use xframe middleware
+2021-10-25 17:53:04,222 INFO 80170 [egg-security] use dta middleware
+2021-10-25 17:53:04,222 INFO 80170 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 17:53:04,233 INFO 80170 [egg:core] dump config after load, 6ms
+2021-10-25 17:53:04,250 INFO 80170 [egg-watcher:application] watcher start success
+2021-10-25 17:53:04,258 INFO 80170 [egg:core] dump config after ready, 4ms
+2021-10-25 18:11:43,675 WARN 80170 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-10-25 18:28:44,156 WARN 80170 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-10-25 18:46:51,250 WARN 80170 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-10-25 18:46:51,252 WARN 80170 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-10-25 19:02:42,790 INFO 80970 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 19:02:42,819 INFO 80970 [egg-multipart] stream mode enable
+2021-10-25 19:02:42,886 INFO 80970 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 19:02:42,889 INFO 80970 [egg-security] use csrf middleware
+2021-10-25 19:02:42,890 INFO 80970 [egg-security] use methodnoallow middleware
+2021-10-25 19:02:42,890 INFO 80970 [egg-security] use noopen middleware
+2021-10-25 19:02:42,890 INFO 80970 [egg-security] use nosniff middleware
+2021-10-25 19:02:42,891 INFO 80970 [egg-security] use xssProtection middleware
+2021-10-25 19:02:42,891 INFO 80970 [egg-security] use xframe middleware
+2021-10-25 19:02:42,891 INFO 80970 [egg-security] use dta middleware
+2021-10-25 19:02:42,891 INFO 80970 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 19:02:42,901 INFO 80970 [egg:core] dump config after load, 5ms
+2021-10-25 19:02:42,910 INFO 80970 [egg-watcher:application] watcher start success
+2021-10-25 19:02:42,917 INFO 80970 [egg:core] dump config after ready, 4ms
+2021-10-25 19:02:52,923 INFO 80986 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 19:02:52,956 INFO 80986 [egg-multipart] stream mode enable
+2021-10-25 19:02:53,024 INFO 80986 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 19:02:53,028 INFO 80986 [egg-security] use csrf middleware
+2021-10-25 19:02:53,028 INFO 80986 [egg-security] use methodnoallow middleware
+2021-10-25 19:02:53,028 INFO 80986 [egg-security] use noopen middleware
+2021-10-25 19:02:53,029 INFO 80986 [egg-security] use nosniff middleware
+2021-10-25 19:02:53,029 INFO 80986 [egg-security] use xssProtection middleware
+2021-10-25 19:02:53,029 INFO 80986 [egg-security] use xframe middleware
+2021-10-25 19:02:53,030 INFO 80986 [egg-security] use dta middleware
+2021-10-25 19:02:53,030 INFO 80986 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 19:02:53,039 INFO 80986 [egg:core] dump config after load, 5ms
+2021-10-25 19:02:53,050 INFO 80986 [egg-watcher:application] watcher start success
+2021-10-25 19:02:53,057 INFO 80986 [egg:core] dump config after ready, 4ms
+2021-10-25 19:03:01,567 INFO 81002 [egg:logger] init all loggers with options: {"dir":"/Users/tongyi/Desktop/self/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-25 19:03:01,600 INFO 81002 [egg-multipart] stream mode enable
+2021-10-25 19:03:01,664 INFO 81002 [egg-static] starting static serve /public/ -> /Users/tongyi/Desktop/self/egg-example/app/public
+2021-10-25 19:03:01,667 INFO 81002 [egg-security] use csrf middleware
+2021-10-25 19:03:01,667 INFO 81002 [egg-security] use methodnoallow middleware
+2021-10-25 19:03:01,667 INFO 81002 [egg-security] use noopen middleware
+2021-10-25 19:03:01,668 INFO 81002 [egg-security] use nosniff middleware
+2021-10-25 19:03:01,668 INFO 81002 [egg-security] use xssProtection middleware
+2021-10-25 19:03:01,668 INFO 81002 [egg-security] use xframe middleware
+2021-10-25 19:03:01,669 INFO 81002 [egg-security] use dta middleware
+2021-10-25 19:03:01,669 INFO 81002 [egg-security] compose 7 middlewares into one security middleware
+2021-10-25 19:03:01,677 INFO 81002 [egg:core] dump config after load, 4ms
+2021-10-25 19:03:01,688 INFO 81002 [egg-watcher:application] watcher start success
+2021-10-25 19:03:01,694 INFO 81002 [egg:core] dump config after ready, 3ms
